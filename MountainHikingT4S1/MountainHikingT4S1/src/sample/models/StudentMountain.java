@@ -19,6 +19,7 @@ public class StudentMountain implements Serializable{
     public StudentMountain() {
     }
 
+  
     @Override
     public boolean equals(Object obj) {
         StudentMountain sm= (StudentMountain) obj;
