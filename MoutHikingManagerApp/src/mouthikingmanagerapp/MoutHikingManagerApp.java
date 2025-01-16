@@ -19,11 +19,14 @@ public class MoutHikingManagerApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws FileNotFoundException {
-        // TODO code application logic here
-        File dir = new File("Mount");
-        dir.mkdir();
-        File file =  new File("Mount/code.txt");
-        FileReader fileReader= new FileReader(file);
+       
+        
+        
+        
+        
+        int a = Integer.parseInt("nam");
+        System.out.println(a);
     }
+    
     
 }
